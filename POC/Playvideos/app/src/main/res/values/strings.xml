@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Play videos</string>
+
+    <!-- A sample Brightcove Edge Account ID -->
+    <string name="account">6096366634001</string>
+
+    <!-- A sample Brightcove Edge Policy Key -->
+    <string name="policy">BCpkADawqM1TkevEHOKH5bMEX7RNJO8dt_yahbZ4ZourO6UkGo58bLwo6IAp-8TAhObl1Zbfjc6TEiNAO-XPs7VbgXblIvdkQygAzzr86H4ZawL735UlDJ-jF2cDHxTHmjIUp9-S1Wj2T8hw
+</string>
+
+    <!-- A sample Brightcove Video ID -->
+    <string name="videoId">6096937003001</string>
+
+</resources>
